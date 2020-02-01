@@ -1,2 +1,2 @@
-# terraform-module-alb-aws-target-group
-Terraform module AWS ALB Target Group
+# terraform-module-alb-target-group
+Terraform module AWS Target Group
